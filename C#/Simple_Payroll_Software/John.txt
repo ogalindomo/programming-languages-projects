@@ -1,0 +1,11 @@
+PAYSLIP FOR JAN 2022
+===========================
+Name of Staff: John
+Hours Worked: 20
+
+Basic Pay: $$600.00
+Overtime Pay: $$0.00
+
+===========================
+Total Pay: $$600.00
+===========================

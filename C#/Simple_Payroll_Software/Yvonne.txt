@@ -1,0 +1,11 @@
+PAYSLIP FOR JAN 2022
+===========================
+Name of Staff: Yvonne
+Hours Worked: 11
+
+Basic Pay: $$550.00
+Allowance: $$1,000.00
+
+===========================
+Total Pay: $$550.00
+===========================

@@ -1,0 +1,11 @@
+PAYSLIP FOR JAN 2022
+===========================
+Name of Staff: Carol
+Hours Worked: 9
+
+Basic Pay: $$270.00
+Overtime Pay: $$0.00
+
+===========================
+Total Pay: $$270.00
+===========================

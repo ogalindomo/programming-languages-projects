@@ -1,0 +1,11 @@
+PAYSLIP FOR JAN 2022
+===========================
+Name of Staff: Peter
+Hours Worked: 10
+
+Basic Pay: $$500.00
+Allowance: $$1,000.00
+
+===========================
+Total Pay: $$500.00
+===========================

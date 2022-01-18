@@ -1,0 +1,15 @@
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/bin/Debug/net6.0/Simple_Payroll_Software
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/bin/Debug/net6.0/Simple_Payroll_Software.deps.json
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/bin/Debug/net6.0/Simple_Payroll_Software.runtimeconfig.json
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/bin/Debug/net6.0/Simple_Payroll_Software.dll
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/bin/Debug/net6.0/ref/Simple_Payroll_Software.dll
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/bin/Debug/net6.0/Simple_Payroll_Software.pdb
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/obj/Debug/net6.0/Simple_Payroll_Software.csproj.AssemblyReference.cache
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/obj/Debug/net6.0/Simple_Payroll_Software.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/obj/Debug/net6.0/Simple_Payroll_Software.AssemblyInfoInputs.cache
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/obj/Debug/net6.0/Simple_Payroll_Software.AssemblyInfo.cs
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/obj/Debug/net6.0/Simple_Payroll_Software.csproj.CoreCompileInputs.cache
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/obj/Debug/net6.0/Simple_Payroll_Software.dll
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/obj/Debug/net6.0/ref/Simple_Payroll_Software.dll
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/obj/Debug/net6.0/Simple_Payroll_Software.pdb
+/Users/oscargalindo/Documents/programming-languages-projects/C#/Simple_Payroll_Software/obj/Debug/net6.0/Simple_Payroll_Software.genruntimeconfig.cache
